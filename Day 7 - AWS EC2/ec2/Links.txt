@@ -1,0 +1,6 @@
+https://www.javatpoint.com/aws-ec2-creating-an-instance
+
+
+https://docs.aws.amazon.com/ec2/index.html
+
+
